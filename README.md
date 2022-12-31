@@ -18,17 +18,17 @@ Map rotations are based on map popularity and balance of the map.
 * [Breakaway](https://battlefield.fandom.com/wiki/Breakaway)
 * [Kaleidoscope](https://battlefield.fandom.com/wiki/Kaleidoscope)
 * [Manifest](https://battlefield.fandom.com/wiki/Manifest)
-* [Orbital]((https://battlefield.fandom.com/wiki/Orbital)
-* [Renewal]((https://battlefield.fandom.com/wiki/Renewal)
-* [Stranded]((https://battlefield.fandom.com/wiki/Stranded)
-* [Spearhead]((https://battlefield.fandom.com/wiki/Spearhead)
+* [Orbital](https://battlefield.fandom.com/wiki/Orbital)
+* [Renewal](https://battlefield.fandom.com/wiki/Renewal)
+* [Stranded](https://battlefield.fandom.com/wiki/Stranded)
+* [Spearhead](https://battlefield.fandom.com/wiki/Spearhead)
 
 #### Rush
 * [Hourglass](https://battlefield.fandom.com/wiki/Hourglass)
 * [Breakaway](https://battlefield.fandom.com/wiki/Breakaway)
 * [Manifest](https://battlefield.fandom.com/wiki/Manifest)
-* [Orbital]((https://battlefield.fandom.com/wiki/Orbital)
-* [Spearhead]((https://battlefield.fandom.com/wiki/Spearhead)
+* [Orbital](https://battlefield.fandom.com/wiki/Orbital)
+* [Spearhead](https://battlefield.fandom.com/wiki/Spearhead)
 
 ### List of gamemodes
 You can host this Experience by entering this Experience Code in-game.
