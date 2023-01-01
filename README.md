@@ -1,6 +1,9 @@
 # Battlefield Reborn
 The classic Battlefield 4 style you've been waiting for! Battlefield Reborn is the project to replicate the Battlefield 4 gameplay into Battlefield 2042.
 
+### Changelog
+All changelogs can be found [here](https://github.com/RoonMoonlight/BattlefieldReborn/releases).
+
 ### Features
 * **Own map rotations** - Less popular and problematic maps are removed, now you don't need to be stressful because of worst map design
 * **More teamplay is required** - Specialist has been always controversy for fans who prefer team-based game, so because of that we made following changes to punish the player who doesn't do teamwork very well:
