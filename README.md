@@ -7,6 +7,7 @@ The classic Battlefield 4 style you've been waiting for! Battlefield Reborn is t
    * You keep the specialist feature - but character gadgets are disabled, and based purely on your skill.
    * While you die, no one can revive you except support specialists. Support specialists are now most important class on your team, so take care of them!
    * You keep the traits, so you have at least one difference per each specialists.
+   * Boris, Rao, Crawford are disabled due to trait similarity. They will be added later when they get new traits in the future update.
 * **Aim Assist is disabled**
 * And more will come in the later updates. Stay tuned!
 
