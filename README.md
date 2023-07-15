@@ -1,5 +1,5 @@
 # Battlefield Reborn
-The classic Battlefield 4 style you've been waiting for! Battlefield Reborn is the project to replicate the Battlefield 4 gameplay into Battlefield 2042.
+The classic Battlefield 4 style you've been waiting for! Battlefield Reborn is the project to replicate old Battlefield (Focused on Battlefield 3~4 Era) gameplay into Battlefield 2042.
 
 ### Changelog
 All changelogs can be found [here](https://github.com/RoonMoonlight/BattlefieldReborn/releases).
@@ -9,10 +9,12 @@ All changelogs can be found [here](https://github.com/RoonMoonlight/BattlefieldR
 * **More teamplay is required** - Specialist has been always controversy for fans who prefer team-based game, so because of that we made following changes to punish the player who doesn't do teamwork very well:
    * You keep the specialist feature - but character gadgets are disabled, and based purely on your skill.
    * While you die, no one can revive you except support specialists. Support specialists are now most important class on your team, so take care of them!
+   * **All vehicles have health regeneration disabled.** Your vehicle can be only repaired by ally Engineers.
    * You keep the traits, so you have at least one difference per each specialists.
-   * Boris, Rao, Crawford are disabled due to trait similarity. They will be added later when they get new traits in the future update.
-* **Aim Assist is disabled**
-* And more will come in the later updates. Stay tuned!
+   * Engineer will have Repair Tool and Medic will have Defibrillator - they are the only way to repair ally vehicles or revive the downed allies.
+   * Insertion Beacon and Med-Pen are disabled.
+   * Boris, Rao, Irish are disabled due to trait similarity. They will be added later when they get new traits in the future update.
+* And more will come in the later updates, so stay tuned!
 
 ### Map Rotations
 Map rotations are based on map popularity and balance of the map.
